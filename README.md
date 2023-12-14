@@ -1,12 +1,12 @@
-# cuidapp
+# cuidgenapp
 
-The cuidapp is a simple web application for generating Collision-Resistant Unique Identifiers (CUIDs). Developed using Go and utilizing the `lucsky/cuid` library, it provides a reliable way to generate unique identifiers.
+The cuidgenapp is a simple web application for generating Collision-Resistant Unique Identifiers (CUIDs). Developed using Go and utilizing the `lucsky/cuid` library, it provides a reliable way to generate unique identifiers.
 
 ## Usage
 
 ### Using curl
 
-You can easily use the cuidapp through command line using curl. Here's how:
+You can easily use the cuidgenapp through command line using curl. Here's how:
 
 - To receive a CUID as plain text, simply use:
   ```bash
